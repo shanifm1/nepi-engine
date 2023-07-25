@@ -1,4 +1,6 @@
-<img src="https://github.com/numurus-nepi/nepi-edge/assets/140538444/15d6541a-1c57-4fab-a3df-2528b93a061f" width="400px">
+<p align="center">
+  <img src="https://github.com/numurus-nepi/nepi-edge/assets/140538444/15d6541a-1c57-4fab-a3df-2528b93a061f" width="400px">
+</p>
 
 # Software toolkit for robotic and AI automation development
 
@@ -8,4 +10,6 @@ NEPI combines plug-and-play abstracted sensor drivers, robotic backseat drivers,
 
 NEPI Engine is supported on all NVIDIA Jetson GPU family of chipsets.
 
-<img src="https://github.com/numurus-nepi/nepi-edge/assets/140538444/ec1426a4-f5a5-46db-8bf1-26db3fc820c0" width="600px">
+<p align="center">
+ <img src="https://github.com/numurus-nepi/nepi-edge/assets/140538444/ec1426a4-f5a5-46db-8bf1-26db3fc820c0" width="600px">
+</p>
