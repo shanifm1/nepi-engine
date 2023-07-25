@@ -1,5 +1,5 @@
 ## Thank you for signing up to NEPI Engine Repo.
-## You wil be alerted via email when NEPI source code repos are available for download!
+You wil be alerted via email when NEPI source code repos are available for download!
 
 
 
