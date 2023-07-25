@@ -8,4 +8,4 @@ NEPI combines plug-and-play abstracted sensor drivers, robotic backseat drivers,
 
 NEPI Engine is supported on all NVIDIA Jetson GPU family of chipsets.
 
-<img src="https://github.com/numurus-nepi/nepi-edge/assets/140538444/ec1426a4-f5a5-46db-8bf1-26db3fc820c0" width="300px">
+<img src="https://github.com/numurus-nepi/nepi-edge/assets/140538444/ec1426a4-f5a5-46db-8bf1-26db3fc820c0" width="600px">
