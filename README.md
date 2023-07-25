@@ -1,4 +1,4 @@
-## Thank you for signing up to NEPI Engine Repo.
+## Thank you for signing up to NEPI Engine Repo
 You wil receive an email when NEPI source code is available for download!
 
 <br/>
