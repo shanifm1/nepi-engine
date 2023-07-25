@@ -8,7 +8,7 @@ NEPI Engine breaks the trend of every company repeatedly building and maintainin
 
 NEPI combines plug-and-play abstracted sensor drivers, robotic backseat drivers, and comms drivers and drag-and-drop AI and automation tools with a suite of Ai, data and system management services. NEPI is a key part of what powers industrial AI and automation at the edge.
 
-NEPI Engine is supported on all NVIDIA Jetson GPU family of chipsets.
+NEPI Engine is supported on all NVIDIA Jetson family of GPU chipsets.
 
 <p align="center">
  <img src="https://github.com/numurus-nepi/nepi-edge/assets/140538444/ec1426a4-f5a5-46db-8bf1-26db3fc820c0" width="600px">
