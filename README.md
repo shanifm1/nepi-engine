@@ -1,12 +1,12 @@
-## Thank you for signing up to NEPI Engine Repo
-You will receive an email when NEPI source code is available for download!
+### Thank you for signing up to NEPI Engine Repo
+Should not be too long before you receive an email when NEPI source code is available for download!
 
 <br/>
 <br/>
 <br/>
 
 <p align="center">
-  <img src="https://github.com/numurus-nepi/nepi-edge/assets/140538444/15d6541a-1c57-4fab-a3df-2528b93a061f" width="400px">
+  <img src="https://github.com/numurus-nepi/nepi-edge/assets/140538444/15d6541a-1c57-4fab-a3df-2528b93a061f" width="350px">
 </p>
 
 ## NEPI Engine is supported on all NVIDIA Jetson family of GPU chipsets.
